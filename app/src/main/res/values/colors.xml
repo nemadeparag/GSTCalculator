@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0095ff</color>
+    <color name="colorPrimaryDark">#007fff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Transperent">#00FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="LiteGray">#BDBBBB</color>
+    <color name="DarkGray">#868585</color>
+    <color name="White">#FFFFFF</color>
+    <color name="LiteBlue">#007fff</color>
+    <color name="SkyBlue">#0095ff</color>
+    <color name="LiteSkyBlue">#00aaff</color>
+
+    <color name="Red">#ff0000 </color>
+    <color name="Green">#00ff00 </color>
+    <color name="Blue">#0000ff </color>
+    <color name="Yellow">#ffff00 </color>
+    <color name="Purple">#800080 </color>
+    <color name="MyLiteGray">#c3c3c3 </color>
+    <color name="SplashBackground">#081D68</color>
+    <color name="edittext_text">#000000</color>
+    <color name="edittext_hint">#686767</color>
+
+
+</resources>
